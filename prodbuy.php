@@ -22,6 +22,6 @@ $prodid=$_GET['u_prod_id'];
 //display the value of the product id, for debugging purposes
 echo "<p>Selected product Id: ".$prodid;
 
-//include head layout
+//include foot layout
 include("footfile.html");
 ?>

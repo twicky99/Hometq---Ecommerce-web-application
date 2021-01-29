@@ -47,7 +47,7 @@ while ($arrayp=mysqli_fetch_array($exeSQL))
 }
 echo "</table>";
 
-//include head layout
+//include foot layout
 include("footfile.html");
 echo "</body>";
 ?>
