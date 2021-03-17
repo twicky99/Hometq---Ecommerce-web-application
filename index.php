@@ -4,7 +4,7 @@ include ("db.php");         //include db.php file to connect to DB
 $pagename="Make your home smart";       //create and populate variable called $pagename
 
 
-//call in the style sheet called ystylesheet.css to format the page as defined in the style sheet
+//call in the style sheet called mystylesheet.css to format the page as defined in the style sheet
 echo "<link rel=stylesheet type=text/css href=mystylesheet.css>";
 
 //display window title
